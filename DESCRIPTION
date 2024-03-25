@@ -1,0 +1,11 @@
+Package: forgapit
+Type: Package
+Title: For gapit geno data
+Version: 1.0.0
+Author: Qingsong Zhao
+Maintainer: The package maintainer <zhaoqingsonga@163.com>
+Description: It is for gapit geno format.
+License: NO
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.1
